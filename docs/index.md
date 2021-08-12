@@ -8,7 +8,7 @@ layout: default
 <br/>
 Available soon in the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/){:target="_blank"}{:rel="noreferrer"}
 
-The Block Breaker 2D Kit is an easy to use template for creating Arkanoid or Breakout type of games in 2D!
+The Block Breaker 2D Kit is an easy to use template for creating Block Breaker type of games in 2D!
 
 Supports PC and mobile platforms.  
 Tested on Windows, Mac OS and Android. 
