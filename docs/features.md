@@ -21,6 +21,23 @@ __Levels__
 * Simply create levels by dragging and dropping blocks and using the Block Type selector
 * Already 9 example levels included
 
+__Block options__
+
+* Score
+* Health
+* Color based on health percentage
+* Unbreakable option
+* Explode option
+    * Damage
+    * Radius
+    * Animation
+    * Sound
+* Visible only on hit option
+    * Visible duration
+* Item loot option
+    * Item spawn chance
+    * Loot table (chance per item)
+
 __Items__
 
 * Increase damage of all balls in the level
