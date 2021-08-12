@@ -24,4 +24,4 @@ Project will be maintained, so feel free to get in touch to suggest changes, fea
 
 For a list of features, documentation and more please see the [website](https://gracesgames.com/BlockBreaker2DKit/)
 
-![FeaturedImage](https://github.com/GracesGames/BlockBreaker2DKit/blob/master/Images/FeaturedImage.png)
+![FeaturedImage](https://github.com/GracesGames/BlockBreaker2DKit/blob/main/Images/FeaturedImage.png)
