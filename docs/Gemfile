@@ -21,7 +21,7 @@ gem 'minima'
 group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-seo-tag'
-  gem 'github-pages', '215'
+  gem 'github-pages'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
