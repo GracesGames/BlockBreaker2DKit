@@ -91,6 +91,10 @@ __LaserAmmoItem__
 
 Gives the paddle additional Laser Ammo
 
+__ExtraLifeItem__
+
+Gives the paddle an additional life
+
 __ShieldItem__
 
 Activates the shield, if not currently active

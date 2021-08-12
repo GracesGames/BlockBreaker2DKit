@@ -31,6 +31,7 @@ __Items__
 * Decrease Paddle width
 * Spawn additional ball for each ball in the level
 * Give the Paddle laser ammo
+* Give the Paddle an extra life
 * Activate a shield below the Paddle
 
 __Save system__
