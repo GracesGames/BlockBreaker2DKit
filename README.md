@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://www.unrealengine.com/marketplace/" rel="noreferrer" target="_blank">Marketplace</a> |
-	<a href="https://gamejolt.com/games/block-breaker-2d-kit/460802" rel="noreferrer" target="_blank">Demo</a> |
+	<a href="https://gamejolt.com/games/block-breaker-2d-kit/635429" rel="noreferrer" target="_blank">Demo</a> |
   	<a href="https://gracesgames.com/BlockBreaker2DKit/" rel="noreferrer" target="_blank">Website</a>
 </p>
 
