@@ -6,7 +6,7 @@ layout: default
 
 <iframe src="https://widgets.gamejolt.com/package/v1?key=R2df7EYr&theme=light" frameborder="0" width="100%" height="170"></iframe>  
 <br/>
-Available soon in the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/){:target="_blank"}{:rel="noreferrer"}
+Available in the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/block-breaker-2d-kit){:target="_blank"}{:rel="noreferrer"}
 
 The Block Breaker 2D Kit is an easy to use template for creating Block Breaker type of games in 2D!
 
