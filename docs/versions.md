@@ -8,8 +8,6 @@ permalink: /versions/
 
 ***
 
-Want more? Send an [email][mail], join [Discord][discord] or create a [GitHub issue][github-issue]
-
 ### Version 1.0.1
 
 ##### Release date: 19-09-2021
@@ -24,8 +22,3 @@ Improvements:
 ##### Release date: 13-08-2021
 
 * First release
-
-
-[mail]: mailto:gracesgamesbv@gmail.com
-[discord]: https://discord.gg/DBwFAES
-[github-issue]: https://github.com/GracesGames/BlockBreaker2DKit/issues
