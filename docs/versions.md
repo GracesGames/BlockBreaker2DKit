@@ -8,6 +8,14 @@ permalink: /versions/
 
 ***
 
+### Version 1.1.0
+
+##### Release date: TBD
+
+New features:
+
+* Added option to influence the ball bounce direction based on the paddle hit location
+
 ### Version 1.0.1
 
 ##### Release date: 19-09-2021
