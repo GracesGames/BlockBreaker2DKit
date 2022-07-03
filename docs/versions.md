@@ -8,6 +8,14 @@ permalink: /versions/
 
 ***
 
+### Version 1.1.1
+
+##### Release date: TBD
+
+Improvements:
+
+* Replaced LootTable Map class reference with ENUM_Item reference to prevent Structure and DataTable crash in UE5
+
 ### Version 1.1.0
 
 ##### Release date: 29-05-2022
