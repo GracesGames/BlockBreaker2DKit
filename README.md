@@ -1,4 +1,4 @@
-# Block Breaker 2D Kit for Unreal Engine 4
+# Block Breaker 2D Kit for Unreal Engine
 
 <p align="center">
 	<a href="https://www.unrealengine.com/marketplace/block-breaker-2d-kit" rel="noreferrer" target="_blank">Marketplace</a> |
