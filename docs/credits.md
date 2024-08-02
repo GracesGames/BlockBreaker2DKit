@@ -12,8 +12,8 @@ Many thanks to:
 
 **Sprites and SFX:**
 
-[Kenney](https://www.kenney.nl/)
+[Kenney](https://www.kenney.nl/){:target="_blank"}{:rel="noreferrer"}
 
 **Music:**
 
-[PatchFury](https://patchfury.gumroad.com/)
+[PatchFury](https://patchfury.gumroad.com/){:target="_blank"}{:rel="noreferrer"}
