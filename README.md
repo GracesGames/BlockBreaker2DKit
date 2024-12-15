@@ -1,12 +1,12 @@
 # Block Breaker 2D Kit for Unreal Engine
 
 <p align="center">
-	<a href="https://www.unrealengine.com/marketplace/block-breaker-2d-kit" rel="noreferrer" target="_blank">Marketplace</a> |
+	<a href="https://www.fab.com/listings/ce7ed902-bdc1-4524-9506-7394a4c989f8" rel="noreferrer" target="_blank">Fab</a> |
 	<a href="https://gamejolt.com/games/block-breaker-2d-kit/635429" rel="noreferrer" target="_blank">Demo</a> |
   	<a href="https://gracesgames.com/BlockBreaker2DKit/" rel="noreferrer" target="_blank">Website</a>
 </p>
 
-Available in the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/block-breaker-2d-kit)
+Available on [Fab](https://www.fab.com/listings/ce7ed902-bdc1-4524-9506-7394a4c989f8)
 
 The Block Breaker 2D Kit is an easy to use template for creating Block Breaker type of games in 2D!
  
