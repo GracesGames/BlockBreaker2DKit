@@ -8,6 +8,14 @@ permalink: /versions/
 
 ***
 
+### Version 1.1.2
+
+##### Release date: Under Review
+
+Improvements:
+
+* Optimized game logic to reduce CPU and Memory load
+
 ### Version 1.1.1
 
 ##### Release date: 03-07-2022
