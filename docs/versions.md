@@ -8,6 +8,14 @@ permalink: /versions/
 
 ***
 
+### Version 1.1.4
+
+##### Release date: Under Review
+
+Improvements:
+
+* Fixed issue where the ball direction arrow and item movement speed was inconsistent for different frame rates
+
 ### Version 1.1.3
 
 ##### Release date: 03-05-2025
